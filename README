@@ -1,0 +1,5 @@
+Simple OAI harvester, which introduces spelling errors into the labels, and index them with SOLR.
+
+This is part of an expiriment to enhance badOCR texts.
+
+
